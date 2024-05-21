@@ -8,7 +8,7 @@
 
 --> Clone the repository using the command below :
 ```bash
-git clone https://github.com/divanov11/StudyBud.git
+git clone https://github.com/Abhinav28bit/studybud.git
 
 ```
 
@@ -34,11 +34,6 @@ envname\scripts\activate
 
 ```
 
---> Install the requirements :
-```bash
-pip install -r requirements.txt
-
-```
 
 #
 
